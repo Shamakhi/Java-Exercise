@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="DBlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HW10.1/DBlib/ojdbc7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HW10.1/DBlib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HW10.1/DBlib/commons-dbcp2-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HW10.1/DBlib/commons-pool2-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HW10.1/DBlib/ojdbc7dms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HW10.1/DBlib/dms.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
